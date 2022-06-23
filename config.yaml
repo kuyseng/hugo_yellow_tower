@@ -1,3 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+
+# dynamic change base on listing name & theme
+title: Yellow Tower
+theme: Eclectic
