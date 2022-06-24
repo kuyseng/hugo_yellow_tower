@@ -6,7 +6,7 @@ We provide smiles to hundreds of happy customers.
 
 Manufacturing
 
-At Acme Corporation, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
+At Yellow Tower, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
 
 
 1) Drawing - Our shapes are drawn with precision to 1/100 of a millimeter.

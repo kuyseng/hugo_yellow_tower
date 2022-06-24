@@ -129,5 +129,5 @@ HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
 If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at dpo@exmaple.org, by phone at (999)999-9999, or by post to:
 
-Acme Corporation
+Yellow Tower
 Data Protection Officer
